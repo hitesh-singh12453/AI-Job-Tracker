@@ -29,3 +29,11 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Node.js / React
+node_modules/
+frontend/dist/
+
+# Environment files
+.env.*
+!.env.example
